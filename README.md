@@ -11,3 +11,5 @@ Analyzed grocery shoppers’ paths to identify motivations and interests of cust
 4. Final Report: `Supermarket Data Analysis Using SQL.pptx`
 
 P.S. The result obtained after running the code may be different from the result showed in the final report because the uploaded dataset is only part of the original data due to file size limit
+# Contributor
+* Ian Chi
